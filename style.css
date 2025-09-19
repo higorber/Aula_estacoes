@@ -61,7 +61,7 @@ h1 {
   color: #994d00;
   cursor: url('https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/32/22385-maple-leaf-icon.png'), auto;
 }
-.outono .season-btns button:hover {
+.outono .season-btns button:hove {
   box-shadow: 0 0 15px #ff6600;
 }
 
